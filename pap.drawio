@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="pwqrxJEFvxPOp29CypPl" name="Variante 1">
+        <mxGraphModel dx="1060" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="20" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Zahlen eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="160" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Summe bilden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Summe ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="460" width="170" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Variante 2" id="bhC75B4ffN2K2RESuKAw">
+        <mxGraphModel dx="1060" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-0"/>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-1" parent="q0kTrbNfWleWpk2p16uA-0"/>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="q0kTrbNfWleWpk2p16uA-1" source="q0kTrbNfWleWpk2p16uA-3" target="q0kTrbNfWleWpk2p16uA-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="170" y="20" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-12" value="" style="edgeStyle=none;html=1;" edge="1" parent="q0kTrbNfWleWpk2p16uA-1" source="q0kTrbNfWleWpk2p16uA-5" target="q0kTrbNfWleWpk2p16uA-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-5" value="Ziffern eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="215" y="160" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-6" value="" style="edgeStyle=none;html=1;" edge="1" parent="q0kTrbNfWleWpk2p16uA-1" source="q0kTrbNfWleWpk2p16uA-7" target="q0kTrbNfWleWpk2p16uA-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-7" value="Summe bilden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="240" y="403" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-8" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="240" y="693" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="q0kTrbNfWleWpk2p16uA-1" source="q0kTrbNfWleWpk2p16uA-10" target="q0kTrbNfWleWpk2p16uA-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-10" value="Summe ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="215" y="543" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="q0kTrbNfWleWpk2p16uA-1" source="q0kTrbNfWleWpk2p16uA-11" target="q0kTrbNfWleWpk2p16uA-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="q0kTrbNfWleWpk2p16uA-11" value="Ziffern in Zahlen konvertieren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q0kTrbNfWleWpk2p16uA-1">
+                    <mxGeometry x="215" y="280" width="170" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
